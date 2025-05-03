@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Digital Civic Resilience Project
 ---
 
